@@ -1,7 +1,7 @@
 {
-  "name": "ISTKHAR_CHATBOT",
-  "description": "A telegram bot",
-  "logo": "https://files.catbox.moe/fgfwbn.jpg",
+  "name": "XQUEN_CHATBOT",
+  "description": "A telegram bot chat or id chat with clone feature",
+  "logo": "https://files.catbox.moe/f8i9s1.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/TEAM-ISTKHAR/ISTKHAR-CHATBOT",
+  "repository": "https://github.com/ASIFXQUEEN/XQUEENCHATBITPVSSUPRT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
@@ -26,7 +26,7 @@
     "OWNER_ID": {
       "description": "Fill Here Your Owner User Id",
       "required": true,
-      "value": "1808943146"
+      "value": ""
     },
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",

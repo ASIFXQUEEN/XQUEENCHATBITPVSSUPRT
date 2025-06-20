@@ -39,9 +39,11 @@ from ISTKHAR_CHATBOT.idchatbot.helpers import (
 
 GSTART = """**ʜᴇʏ ᴅᴇᴀʀ {}**\n\n**ᴛʜᴀɴᴋs ғᴏʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ʏᴏᴜ ᴄᴀɴ ᴄʜᴀɴɢᴇ ʟᴀɴɢᴜᴀɢᴇ ʙʏ ᴄʟɪᴄᴋ ᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs.**\n**ᴄʟɪᴄᴋ ᴀɴᴅ sᴇʟᴇᴄᴛ ʏᴏᴜʀ ғᴀᴠᴏᴜʀɪᴛᴇ ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ sᴇᴛ ᴄʜᴀᴛ ʟᴀɴɢᴜᴀɢᴇ ғᴏʀ ʙᴏᴛ ʀᴇᴘʟʏ.**\n\n**ᴛʜᴀɴᴋ ʏᴏᴜ ᴘʟᴇᴀsᴇ ᴇɴɪᴏʏ.**"""
 STICKER = [
-    "CAACAgUAAx0CYlaJawABBy4vZaieO6T-Ayg3mD-JP-f0yxJngIkAAv0JAALVS_FWQY7kbQSaI-geBA",
-    "CAACAgUAAx0CYlaJawABBy4rZaid77Tf70SV_CfjmbMgdJyVD8sAApwLAALGXCFXmCx8ZC5nlfQeBA",
-    "CAACAgUAAx0CYlaJawABBy4jZaidvIXNPYnpAjNnKgzaHmh3cvoAAiwIAAIda2lVNdNI2QABHuVVHgQ",
+    "CAACAgUAAxkBAAEOvjloVbuAnXg8OjkZA_iXgciIZ8zq2wACzhEAAvG1qFQtp9a-FZFO_DYE",
+    "CAACAgUAAxkBAAEOvjtoVbuKwJFz5S-DEYxKq-cN8RpFvwACJxQAAtNiwFbgRxNVCZ-sNTYE",
+    "CAACAgUAAxkBAAEOvj1oVbuWkcQOIsyWaxTcZLJBoEEIaAACTgsAAjahwVWG32PyTTPnTzYE",
+    "CAACAgQAAxkBAAEOvkFoVbvJ3RsaVmRSsW3xYGDpWgz94AACLA0AAobUOFLnQwWiSuO56DYE",
+    "CAACAgEAAxkBAAEOvkVoVbvkTrGPaMZUveKyEy4TM2xmaAACyQcAAuN4BAABhEkOibFTmls2BA",
 ]
 
 
